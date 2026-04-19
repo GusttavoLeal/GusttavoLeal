@@ -47,22 +47,17 @@ I prioritize clean code, performance and long-term maintainability. My goal is n
 
 ---
 
-## 🚀 Featured Projects
-
-* 🔥 Project Name — short description about the problem solved and the stack used
-* 🔥 Project Name — short description about the impact and technologies
-* 🔥 Project Name — focus on performance / architecture / real use case
-
----
-
 ## 🌐 Contact
 
 <p align="center">
-  <a href="https://seu-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white">
+  <a href="https://gusttavoleal.github.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=111111">
   </a>
-  <a href="https://www.linkedin.com/in/seu-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/gusttavoleal/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=050505&color=0A66C2">
+  </a>
+  <a href="https://github.com/gusttavoleal" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=222222">
   </a>
 </p>
 
