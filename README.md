@@ -56,7 +56,14 @@ I prioritize clean code, performance and long-term maintainability. My goal is n
   <a href="https://www.linkedin.com/in/gusttavoleal/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
+  <a href="mailto:gusttavolealmamedio@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://discord.com/users/1204551778981519401">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
 </p>
+
 
 <p align="center">
   Clean Code • Architecture • Performance • Scalability
