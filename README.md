@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 About
+##  About
 
 Full Stack Developer focused on building modern and scalable applications, working across the entire development lifecycle — from UI/UX to backend architecture, APIs and databases.
 
@@ -18,7 +18,7 @@ I prioritize clean code, performance and long-term maintainability. My goal is n
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -38,7 +38,7 @@ I prioritize clean code, performance and long-term maintainability. My goal is n
 
 ---
 
-## 📊 Metrics
+##  Metrics
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GusttavoLeal&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -47,7 +47,7 @@ I prioritize clean code, performance and long-term maintainability. My goal is n
 
 ---
 
-## 🌐 Contact
+##  Contact
 
 <p align="center">
   <a href="https://gusttavoleal.github.io/" target="_blank" rel="noopener noreferrer">
