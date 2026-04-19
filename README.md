@@ -50,14 +50,14 @@ I prioritize clean code, performance and long-term maintainability. My goal is n
 ## 🌐 Contact
 
 <p align="center">
-  <a href="https://gusttavoleal.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <a href="https://gusttavoleal.github.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=opera&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/gusttavoleal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2">
+  <a href="https://www.linkedin.com/in/gusttavoleal/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
----
+
 
 <p align="center">
   Clean Code • Architecture • Performance • Scalability
