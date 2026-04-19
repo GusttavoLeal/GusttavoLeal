@@ -5,51 +5,36 @@
 </p>
 
 <p align="center">
-  Building modern, scalable and performance-oriented web applications.
+  Building modern, scalable and performance-focused web applications.
 </p>
 
 ---
 
 ## 🧠 About
 
-I'm a Full Stack Developer focused on building modern and scalable applications, working across the entire development cycle — from UI/UX to backend architecture, APIs and databases.
+Full Stack Developer focused on building modern and scalable applications, working across the entire development lifecycle — from UI/UX to backend architecture, APIs and databases.
 
-I prioritize clean code, solid architecture and long-term maintainability. Beyond delivering features, I focus on solving real problems and creating systems that generate value.
-
-Always improving my technical skills in performance, scalability and software engineering best practices.
+I prioritize clean code, performance and long-term maintainability. My goal is not just to deliver features, but to build systems that solve real problems and scale efficiently.
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Frontend**
+<p align="center">
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+</p>
 
-* React
-* Next.js
-
-**Backend**
-
-* Node.js
-* Express
-
-**Languages**
-
-* JavaScript
-* TypeScript
-* HTML
-* CSS
-
-**Database**
-
-* PostgreSQL
-
-**ORM**
-
-* Prisma
-
-**DevOps**
-
-* Docker
+<p align="center">
+  React • Next.js • Node.js • Express • TypeScript • PostgreSQL • Prisma • Docker
+</p>
 
 ---
 
@@ -62,20 +47,23 @@ Always improving my technical skills in performance, scalability and software en
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-* Full stack applications with modern architecture
-* REST API integrations
-* Performance-focused interfaces
-* Scalable and maintainable systems
+* 🔥 Project Name — short description about the problem solved and the stack used
+* 🔥 Project Name — short description about the impact and technologies
+* 🔥 Project Name — focus on performance / architecture / real use case
 
 ---
 
 ## 🌐 Contact
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://seu-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/seu-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -83,4 +71,5 @@ Always improving my technical skills in performance, scalability and software en
 <p align="center">
   Clean Code • Architecture • Performance • Scalability
 </p>
+
 
