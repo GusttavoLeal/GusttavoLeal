@@ -37,24 +37,23 @@ I prioritize clean code, performance and long-term maintainability. My goal is n
 </p>
 
 ---
-
-## Metrics
+## Métricas
 
 <p align="center">
   <img
     height="160em"
-    src="https://github-readme-stats.vercel.app/api?username=GusttavoLeaI&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=GusttavoLeal&show_icons=true&theme=tokyonight&hide_border=true"
   />
 
   <img
     height="160em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoLeaI&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoLeal&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=GusttavoLeaI&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=GusttavoLeal&theme=tokyonight&hide_border=true"
   />
 </p>
 
