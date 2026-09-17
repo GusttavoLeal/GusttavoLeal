@@ -37,17 +37,18 @@ I prioritize clean code, performance and long-term maintainability. My goal is n
 </p>
 
 ---
+
 ## Métricas
 
 <p align="center">
   <img
     height="160em"
-    src="https://github-readme-stats.vercel.app/api?username=GusttavoLeal&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=GusttavoLeal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
   />
 
   <img
     height="160em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoLeal&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusttavoLeal&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
   />
 </p>
 
@@ -75,7 +76,6 @@ I prioritize clean code, performance and long-term maintainability. My goal is n
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
-
 
 <p align="center">
   Clean Code • Architecture • Performance • Scalability
