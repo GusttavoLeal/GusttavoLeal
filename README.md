@@ -18,7 +18,7 @@ Priorizo código limpo, performance e manutenibilidade a longo prazo. Meu objeti
 
 ---
 
-## Stack Tecnológica
+## Tech Stack
 
 <p align="center">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
