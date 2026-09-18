@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Construindo aplicações web modernas, escaláveis e focadas em performance.
+  Desenvolvendo soluções web modernas com foco em performance, escalabilidade e qualidade de código.
 </p>
 
 ---
