@@ -1,24 +1,24 @@
 <h1 align="center">Gustavo Leal</h1>
 
 <p align="center">
-  Full Stack Developer • Performance • Scalable Systems
+  Desenvolvedor Full Stack • Performance • Sistemas Escaláveis
 </p>
 
 <p align="center">
-  Building modern, scalable and performance-focused web applications.
+  Construindo aplicações web modernas, escaláveis e focadas em performance.
 </p>
 
 ---
 
-##  About
+## Sobre
 
-Full Stack Developer focused on building modern and scalable applications, working across the entire development lifecycle — from UI/UX to backend architecture, APIs and databases.
+Desenvolvedor Full Stack focado na construção de aplicações modernas e escaláveis, atuando em todo o ciclo de desenvolvimento — desde UI/UX até arquitetura de backend, APIs e bancos de dados.
 
-I prioritize clean code, performance and long-term maintainability. My goal is not just to deliver features, but to build systems that solve real problems and scale efficiently.
+Priorizo código limpo, performance e manutenibilidade a longo prazo. Meu objetivo não é apenas entregar funcionalidades, mas construir sistemas que resolvam problemas reais e escalem de forma eficiente.
 
 ---
 
-##  Tech Stack
+## Stack Tecnológica
 
 <p align="center">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -38,11 +38,11 @@ I prioritize clean code, performance and long-term maintainability. My goal is n
 
 ---
 
-##  Contact
+## Contato
 
 <p align="center">
   <a href="https://gusttavoleal.github.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=opera&logoColor=FF004F">
+    <img src="https://img.shields.io/badge/Portfólio-050505?style=for-the-badge&logo=opera&logoColor=FF004F">
   </a>
   <a href="https://www.linkedin.com/in/gusttavoleal/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
@@ -56,6 +56,7 @@ I prioritize clean code, performance and long-term maintainability. My goal is n
 </p>
 
 <p align="center">
-  Clean Code • Architecture • Performance • Scalability
+  Código Limpo • Arquitetura • Performance • Escalabilidade
 </p>
+
 
